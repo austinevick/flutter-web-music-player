@@ -2,7 +2,9 @@
 
 ![](https://github.com/austinevick/flutter-web-music-player/blob/master/screenshot/flutter%20web%20music%20app.PNG)
 
-A new Flutter project.
+TODO:
+1. Add responsiveness
+2. Add basic functionality
 
 ## Getting Started
 
