@@ -1,5 +1,7 @@
 # flutter_desktop_music_player
 
+![](https://github.com/austinevick/flutter-web-music-player/blob/master/screenshot/flutter%20web%20music%20app.PNG)
+
 A new Flutter project.
 
 ## Getting Started
